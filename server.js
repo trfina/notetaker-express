@@ -7,7 +7,7 @@ app.get('/api/notes', (req,res) => {
 });
 
 app.listen(PORT, () => {
-    console.log('API server is now on port ${PORT}!');
+    console.log('API server is now on port', `${PORT}`, '!');
 });
 
 const {notes} = require('./develop/data/notes');
