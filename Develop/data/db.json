@@ -1,16 +1,44 @@
 {
-"notes": [
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": "0",
+      "title": "Test Title",
+      "text": "Test text"
     },
     {
-        "title":"Finish Basement Phase 1",
-        "text":"Clear out section 1"
+      "id": "1",
+      "title": "Finish Basement Phase 1",
+      "text": "Clear out section 1"
     },
     {
-        "title":"Finish Basement Phase 2",
-        "text":"Install egress window"
+      "id": "2",
+      "title": "Finish Basement Phase 2",
+      "text": "Install egress window"
+    },
+    {
+      "id": "3",
+      "title": "Finish Basement Phase 2",
+      "text": "Install egress window"
+    },
+    {
+      "title": "House Repairs",
+      "text": "Fix drain in upstairs bathroom.",
+      "id": "4"
+    },
+    {
+      "title": "Basement",
+      "text": "Gather all clothes, sort into keep, give away and throw away.",
+      "id": "5"
+    },
+    {
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "6"
+    },
+    {
+      "title": "Kitchen Upgrades",
+      "text": "replace broken tiles",
+      "id": "7"
     }
-]
+  ]
 }
