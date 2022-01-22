@@ -39,6 +39,16 @@
       "title": "Kitchen Upgrades",
       "text": "replace broken tiles",
       "id": "7"
+    },
+    {
+      "title": "New Note",
+      "text": "This is the text ",
+      "id": "8"
+    },
+    {
+      "title": "new note",
+      "text": "this is a new note as well",
+      "id": "9"
     }
   ]
 }
