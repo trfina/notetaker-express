@@ -6,7 +6,7 @@ This project demonstrates the use of Node.js Express on the back end that will s
 
 [Repository for this Project]: (https://github.com/trfina/notetaker-express)
 
-![NoteTakerExpress](https://user-images.githubusercontent.com/12851682/150661979-1b8a0293-4af5-442b-97ae-1bf9b906efc4.png)
+![NoteTakerExpress](https://user-images.githubusercontent.com/12851682/150694554-7ca1d952-ef63-465e-8a68-829731bc9f6c.png)
 
 The Heroku production link is here: (https://serene-scrubland-56336.herokuapp.com/)
 
