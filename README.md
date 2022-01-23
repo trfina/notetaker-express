@@ -3,6 +3,7 @@
 
 This project demonstrates the use of Node.js Express on the back end that will save and retrieve note date from a JSON file.   
 
+![notetaker](https://user-images.githubusercontent.com/12851682/150695729-d60f198a-e902-4c6a-b13f-2e6524d27962.png)
 
 [Repository for this Project]: (https://github.com/trfina/notetaker-express)
 
