@@ -13,12 +13,10 @@ The Heroku production link is here: (https://serene-scrubland-56336.herokuapp.co
 Node.js must be installed on the machine and Inquirer Node package installed in the project folder.
 
 ## Credits
-- Starter Code for this README.md project:
+- Starter Code for this project:
 (https://github.com/coding-boot-camp/miniature-eureka)
 
 ## Questions
-
-GitHub Username:
 - [GitHub Profile](https://github.com/trfina)
 - Additional Questions?  
 Contact me at finatammy@gmail.com
